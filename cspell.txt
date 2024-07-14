@@ -1,0 +1,7 @@
+tanstack
+tsbuildinfo
+nocheck
+tailwindcss
+codemountains
+gomomento
+daisyui

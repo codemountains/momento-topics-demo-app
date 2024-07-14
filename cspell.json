@@ -1,0 +1,17 @@
+{
+    "version": "0.2",
+    "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+    "allowCompoundWords": false,
+    "dictionaries": ["project"],
+    "dictionaryDefinitions": [
+        {
+            "name": "project",
+            "path": "./cspell.txt",
+            "scope": "folder",
+            "description": "Custom Workspace Dictionary",
+            "addWords": true
+        }
+    ],
+    "words": [],
+    "ignoreRegExpList": []
+}
