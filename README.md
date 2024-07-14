@@ -21,5 +21,5 @@ echo "VITE_MOMENTO_API_KEY=\nVITE_MOMENTO_CACHE_NAME=\nVITE_MOMENTO_TOPIC_NAME="
 ## Run
 
 ```shell
-npm run vite
+npm run dev
 ```
